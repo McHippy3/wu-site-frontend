@@ -1,0 +1,30 @@
+header {
+    text-align: right;
+}
+
+.header-link {
+    font-family: 'Nunito', sans-serif;
+    font-size: medium;
+    color: inherit;
+    text-decoration: none;
+    padding-top: 1rem;
+    display: inline-block;
+    width: 7rem;
+    text-align: center;
+}
+
+.header-link.active {
+    text-decoration: underline;
+    text-decoration-color: #000000;
+    font-weight: 700;
+}
+
+.header-link:hover {
+    opacity: 0.5;
+}
+
+.header-link.active {
+    text-decoration: underline;
+    text-decoration-color: #000000;
+    font-weight: 700;
+}
