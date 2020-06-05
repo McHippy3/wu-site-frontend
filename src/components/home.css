@@ -1,3 +1,16 @@
-h1.heading {
-    font-size: 3.0rem;
+h3.heading {
+    font-size: 4.0rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    text-align: center;
+}
+
+#heading-container {
+    padding: 25vh 0vh;
+}
+
+.section#home {
+    margin: 5.0rem;
+    height: 100vh;
+    border: 0.2rem solid black; 
 }
