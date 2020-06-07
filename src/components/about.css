@@ -1,0 +1,41 @@
+.section#about {
+    display: block;
+    border-radius: 3rem;
+    border-left: 2rem solid #6a9ece;
+    border-right: 2rem solid #6a9ece;
+}
+
+.section #left-about {
+    width: 55%;
+    display: inline-block;
+    height: 100%;
+    vertical-align: top;
+    margin: 5% 0%;
+}
+
+.section #left-about .heading {
+    font-weight: 500;
+}
+
+.section #left-about p {
+    margin: 1rem;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2rem;
+    font-weight: 300;
+    margin: 5% 15% 0% 15%;
+}
+
+.section #right-about {
+    display: inline-block;
+    padding: 0% 5% 0% 5%;
+    width: 35%;
+    height: 100%;
+}
+
+#right-about img {
+    margin: auto;
+    width: 100%;
+    border-radius: 50%;
+    overflow: hidden;
+    transform: translate(0%, 17.5%);
+}

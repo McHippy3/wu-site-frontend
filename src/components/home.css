@@ -1,16 +1,46 @@
-h3.heading {
-    font-size: 4.0rem;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 300;
-    text-align: center;
-}
-
 #heading-container {
-    padding: 25vh 0vh;
+    padding: 15vh 0vh;
 }
 
 .section#home {
-    margin: 5.0rem;
+    margin: 0vh 11vh 0vh 11vh;
     height: 100vh;
-    border: 0.2rem solid black; 
+}
+
+.section#home .heading {
+    font-size: 4.0rem;
+}
+
+.section#home #link-container {
+    display: block;
+    text-align: center;
+}
+
+.section#home a {
+    display: inline-block;
+    font-family: 'Raleway', serif;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: xx-large;
+    text-align: center;
+    color: #ffffff;
+    margin: 1.5rem;
+    width: 10rem;
+    padding: 0.5rem;
+    border-radius: 2rem;
+}
+
+.section #resume-button {
+    background-color: #E65C55;
+    border: 0.2rem solid #E65C55;
+}
+
+.section #see-more-button {
+    background-color: #5e71c9;
+    border: 0.2rem solid #5e71c9;
+}
+
+.section#home a:hover {
+    cursor: pointer;
+    border: 0.2rem solid white;
 }

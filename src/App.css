@@ -1,0 +1,11 @@
+h3.heading {
+    font-size: 3.0rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
+
+.section {
+    margin: 0% 5%;
+    display: block;
+}

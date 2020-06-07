@@ -1,0 +1,49 @@
+.tile {
+    display: inline-block;
+    box-shadow: 0 0.2rem 0.5rem 0 rgba(0,0,0,0.2), 0 0.2rem 0.2rem 0 rgba(0,0,0,0.2);
+    width: 20rem;
+    height: 32rem;
+    border-radius: 0.3rem;
+    margin-right: 5rem;
+    margin-bottom: 5rem;
+}
+
+.tile .tile-image {
+    height: 16rem;
+    width: 20rem;
+}
+
+.tile .text-container {
+    height: 11rem;
+}
+
+.tile p.project-title {
+    text-align: center;
+    font-weight: 700;
+}
+
+.tile p.project-tools {
+    text-align: center;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.tile p {
+    font-family: 'Raleway', 'sans-serif';
+    padding: 0rem 1rem;
+}
+
+.tile .button-container {
+    display: block;
+    text-align: center;
+}
+
+.tile .source-link {
+    font-family: 'Raleway', 'sans-serif';
+    font-weight: 700;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 0.5rem;
+    background-color: #5e71c9;
+    border-radius: 1rem;
+}
