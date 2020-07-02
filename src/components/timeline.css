@@ -1,0 +1,15 @@
+#timeline {
+    background-color: #ececec;
+    margin: 0%;
+    padding: 5% 0%;
+}
+
+#timeline h1 {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.timeline-element .vertical-timeline-element-content{
+    font-family: 'Raleway', sans-serif;
+    background-color: white;
+}

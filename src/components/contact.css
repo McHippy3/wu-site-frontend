@@ -1,0 +1,41 @@
+#contact {
+    background-color: #434242;
+    margin: 0rem;
+    padding: 2rem
+}
+
+#contact h3 {
+    color: white;
+}
+
+#contact #social-container {
+    margin: auto;
+    width: 60%;
+}
+
+#contact #social-container a {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin: 0% 0% 1% 0%;
+    width: 25%;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+}
+
+#contact #social-container a:hover {
+    text-decoration: underline;
+}
+
+#contact .attributions, #contact .attributions a {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    text-decoration: none;
+}
+
+#contact .attributions a:hover {
+    text-decoration: underline;
+}

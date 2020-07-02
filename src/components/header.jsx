@@ -8,7 +8,7 @@ class Header extends Component {
       'Home',
       'About',
       'Projects',
-      'Blog',
+      'Timeline',
       'Contact',
     ]
   }

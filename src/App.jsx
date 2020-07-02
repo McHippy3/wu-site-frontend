@@ -5,6 +5,8 @@ import Header from './components/header'
 import Home from './components/home'
 import About from './components/about'
 import Projects from './components/projects'
+import Contact from './components/contact'
+import Timeline from './components/timeline'
 
 class App extends React.Component {
   render(){
@@ -15,6 +17,8 @@ class App extends React.Component {
           <Home/>
           <About/>
           <Projects/>
+          <Timeline/>
+          <Contact/>
         </FadeIn>
       </React.Fragment>
     )

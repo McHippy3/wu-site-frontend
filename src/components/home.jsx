@@ -10,7 +10,7 @@ function Home(props) {
         <h3 className="heading">MY NAME IS DAVID WU</h3>
         <h3 className="heading">WELCOME TO MY WEBSITE</h3>
         <div id="link-container">
-          <a href='https://www.google.com' id='resume-button'>Resume</a>
+          <a href='https://1drv.ms/w/s!AqK7C3CTmrtUiYZUC5r8u7bjsP7GKQ?e=zNMw1S' id='resume-button'>Resume</a>
           <Link to='about' duration={1000} id='see-more-button' smooth={true} offset={-100}>See More</Link>
         </div>
       </div>
