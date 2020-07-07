@@ -11,6 +11,10 @@
     font-size: 4.0rem;
 }
 
+.section#home .heading span {
+    background-color: #90b58d;
+}
+
 .section#home #link-container {
     display: block;
     text-align: center;

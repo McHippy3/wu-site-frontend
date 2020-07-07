@@ -9,7 +9,7 @@ function Contact(props) {
           <a href="mailto:dwu2010@live.ca">Email</a>
           <a href="https://www.linkedin.com/in/david-wu-582621199/">LinkedIn</a>
           <a href="https://github.com/McHippy3">GitHub</a>
-          <a href="https://twitter.com/McHippy2">Twitter</a>
+          <a href="https://www.facebook.com/davidwu11">Facebook</a>
         </div>
         <div class="attributions">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a></div>
         <div class="attributions">Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a></div>
