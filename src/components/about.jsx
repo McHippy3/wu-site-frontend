@@ -7,14 +7,11 @@ function About(props) {
       <div id='left-about'>
         <h3 className='heading'>ABOUT ME</h3>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
-          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-          nisi ut aliquip ex ea commodo consequat. 
+          Greetings! I'm David, a 1st year student studying computer science at the University of Waterloo. 
         </p>
         <p>
-          Duis aute irure dolor in reprehenderit in voluptate velit 
-          esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt 
-          in culpa qui officia deserunt mollit anim id est laborum.
+          My current focus in software development revolves around the web where I work with technologies such as Django, MySQL, and Javascript (React, vanilla, etc).
+          However, I am always open to learning new things, and I hope to spend my years in school gaining exposure to as many stacks as possible. 
         </p>
       </div>
       <div id='right-about'>

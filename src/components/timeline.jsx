@@ -1,6 +1,8 @@
 import React from 'react'
 import './timeline.css'
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
+import { ReactComponent as MortarBoardSVG } from './icons/svg/001-mortarboard.svg';
+import { ReactComponent as WorkSVG } from './icons/svg/002-work.svg';
 import 'react-vertical-timeline-component/style.min.css';
 
 function Timeline(props) {
@@ -15,6 +17,7 @@ function Timeline(props) {
           iconStyle={{ backgroundColor: 'red', }}
           contentArrowStyle={{ borderRight: '7px solid #ffffff' }}
         >
+          <MortarBoardSVG className='svg-icon'/>
           <h3 className="vertical-timeline-element-title">High School Diploma</h3>
           <h4 className="vertical-timeline-element-subtitle">Katy High School</h4>
           <p>
@@ -28,6 +31,7 @@ function Timeline(props) {
           iconStyle={{ backgroundColor: '#1fa5db', }}
           contentArrowStyle={{ borderRight: '7px solid #ffffff' }}
         >
+          <WorkSVG className='svg-icon'/>
           <h3 className="vertical-timeline-element-title">Software Development Intern</h3>
           <h4 className="vertical-timeline-element-subtitle">Tecmend</h4>
           <p>
@@ -42,9 +46,10 @@ function Timeline(props) {
           className={'timeline-element'}
           date={'2020 - 2025'}
           iconStyle={{ backgroundColor: 'red', }}
-          icon={<i class="fas fa-graduation-cap"></i>}
+          icon={<i className="fas fa-graduation-cap"></i>}
           contentArrowStyle={{ borderRight: '7px solid #ffffff' }}
         >
+          <MortarBoardSVG className='svg-icon'/>
           <h3 className="vertical-timeline-element-title">Bachelors of Computer Science</h3>
           <h4 className="vertical-timeline-element-subtitle">University of Waterloo</h4>
           <p>

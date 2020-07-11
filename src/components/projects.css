@@ -6,7 +6,7 @@
     display: inline-block;
     box-shadow: 0 0.2rem 0.5rem 0 rgba(0,0,0,0.2), 0 0.2rem 0.2rem 0 rgba(0,0,0,0.2);
     width: 20rem;
-    height: 32rem;
+    height: 34rem;
     border-radius: 0.3rem;
     margin: 2rem;
 }
@@ -21,7 +21,7 @@
 }
 
 .tile .text-container {
-    height: 11rem;
+    height: 13rem;
 }
 
 .tile p.project-title {

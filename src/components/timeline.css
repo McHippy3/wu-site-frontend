@@ -9,7 +9,12 @@
     font-family: 'Raleway', sans-serif;
 }
 
-.timeline-element .vertical-timeline-element-content{
+.timeline-element .vertical-timeline-element-content {
     font-family: 'Raleway', sans-serif;
     background-color: white;
+}
+
+.svg-icon {
+    width: 1.5rem;
+    height: 1.5rem;
 }
