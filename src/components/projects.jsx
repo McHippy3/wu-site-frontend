@@ -5,7 +5,7 @@ import './projects.css';
 export const ProjectsList = () =>
   [
     <div className='tile' key={0}>
-      <img src={require('./images/dwusite-projects.jpg')} alt='about me website' className='tile-image'></img>
+      <img src={require('./images/dwusite-projects.png')} alt='about me website' className='tile-image'></img>
       <div className='text-container'>
         <p className='project-title'>About Me Website</p>
         <p className='project-tools'>ReactJS, Nginx</p>
