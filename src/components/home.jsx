@@ -4,7 +4,7 @@ import { Link } from "react-scroll";
 
 function Home(props) {
   return (
-    <div style={{backgroundImage:`url(${require('./images/grass.jpg')})`, backgroundSize: 'cover'}}>
+    <div style={{backgroundImage:`url(${require('./images/leaves.jpg')})`, backgroundSize: 'cover'}}>
       <div className="section" id="home">
         <div id="heading-container">
           <h3 className="heading"><span>&nbsp;HELLO THERE&nbsp;</span></h3>

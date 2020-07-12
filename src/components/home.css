@@ -2,11 +2,6 @@
     padding: 15vh 0vh;
 }
 
-.section#home {
-    margin: 0vh 11vh 0vh 11vh;
-    height: 100vh;
-}
-
 .section#home .heading {
     font-size: 4.0rem;
 }
